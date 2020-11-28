@@ -1,11 +1,9 @@
-# hometask-demo
+# hometask-template
 
-## Steps to create a new
-1. Fork this repo
-2. For each task create a new folder in the `./components` folder
-3. Import and render in `App.js`
-4. Comment it out in the code (I will uncomment them when I want to check them)
+## Шаги по выполнению задания
+1. Клонируем репозиторий
+2. Для каждого задания создаем новую папку в папке `./components`
+3. Импортируем и рендерим свое задание в `App.js`
+4. Заккоментируйте все свои выполненные задания обратно (Я их буду проверять по одному и сам расскоментирую)
 
-## Contact me
-
-[Twitter](https://twitter.com/rotimi_best)
+> Copyright © 2020 OSSystem
